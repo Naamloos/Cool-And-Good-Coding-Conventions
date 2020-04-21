@@ -106,7 +106,8 @@ And make sure to end every source file with a watermark.
 ```
 
 ## Version Control
-I really like Dropbox sync. It's pretty cool and it just makes sure to sync your files with the one your buds have
+I really like Dropbox sync. It's pretty cool and it just makes sure to sync your files with the one your buds have.
+Also make sure that for each version you make a whole copy of your code in a separate folder to make sure you don't loose anything.
 
 ## Databases
 Use an excel lib
