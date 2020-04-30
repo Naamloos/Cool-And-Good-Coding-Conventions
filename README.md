@@ -56,6 +56,16 @@ public void tHISISANANGRYCASEMETHOD(int iNPUT)                      {
 ## Comments
 No. People will steal your code if they understand what it does.
 
+## Naming conventions
+Make sure to give your code some creativity by choosing one of the following naming conventions:
+- Smashing your keyboard
+- Random words (like `rAINBOWsHIT`)
+- Use a password generator
+- Random GUID
+- Using random characters out of the Unicode table (including 👏😎⭐👌👌🤢)
+
+Using these make sure you'll never jump into any naming problems.
+
 ## Oh right
 never use for loops, they suck. just while
 
